@@ -7,10 +7,10 @@
 "Airdrop" = "Airdrop";
 
 
-"Airplane Alerts" = "Alertas de Modo de Avión";
+"Airplane Alerts" = "Alertas de Modo Avión";
 
 
-"Airplane Icon" = "Icono de Modo de Avión";
+"Airplane Icon" = "Icono de Modo Avión";
 
 
 "Alarm Icon" = "Icono de Alarma";
@@ -148,7 +148,7 @@
 "Custom Slide To Unlock" = "Desliza para Desbloquear Personalizado";
 
 
-"Custom Touch ID" = "Touch ID Perdonalizado";
+"Custom Touch ID" = "Touch ID Personalizado";
 
 
 "Darkening Amount" = "Cantidad de oscurecimiento";
@@ -175,13 +175,13 @@
 "Dim Inactive App Cards" = "Oscurecer cartas de aplicaciones inactivas";
 
 
-"Dimmed Icon Alpha" = "Icono de alfa oscurecido ";
+"Dimmed Icon Alpha" = "Alfa del Icono oscurecido ";
 
 
 "Dimming Color Tint" = "Oscurecimiento de tinte de color";
 
 
-"Disable" = "Inhabilitar";
+"Disable" = "Desactivar";
 
 
 "Disable Blur" = "Desactivar el Desenfoque ";
@@ -241,7 +241,7 @@
 "Folder Footer" ="Carpetas no se pueden anidar encima de otras, pero los iconos se pueden anidar dentro de una carpeta, permitiendo anidación.";
 
 
-"Force Circle Buttons" = "Forzar botones circular es";
+"Force Circle Buttons" = "Forzar botones circulares";
 
 
 "Force Square Buttons" = "Forzar botones cuadrados ";
@@ -274,7 +274,7 @@
 "Hide Separators" = "Ocultar Separadores";
 
 
-"HideMeX Disable Alert" = "Estas a punto de deshabitar HideMeX, para completar esta acción un respingo es requerido. Estas seguro que quieres deshabitar el tweak?";
+"HideMeX Disable Alert" = "Estas a punto de deshabitar HideMeX, para completar esta acción un respring es requerido. Estas seguro que quieres deshabitar el tweak?";
 
 
 "Hide All Icon Badges" = "Ocultar todas las insignias de iconos";
@@ -421,16 +421,16 @@
 "Music Controls" = "Controles de música";
 
 
-"Music Section Hiding Footer" = "Ocultando la sección de música es condicional. Esto quiere decir que si se está tocando música la sección va a ser des ocultada para que la uses. Cuando la música para la sección se oculta.";
+"Music Section Hiding Footer" = "Ocultando la sección de música es condicional. Esto quiere decir que si se está tocando música la sección va a ser desocultada para que la uses. Cuando la música para la sección se oculta.";
 
 
-"No Backups Found, Create A New Backup" = "No copias de seguridad encontrada, Crear copia de seguridad nueva";
+"No Backups Found, Create A New Backup" = "No se encontraron copias de seguridad, Crear copia de seguridad nueva";
 
 
 "No Delay In Showing" = "Sin demora en mostrar";
 
 
-"No Service/Searching" = "No Servicio/Buscando";
+"No Service/Searching" = "Sin Servicio/Buscando";
 
 
 "Not Right Now" = "Ahora No";
@@ -466,7 +466,7 @@
 "Remove Inactive App Cards" = "Remover Cartas de Aplicaciones Inactivas ";
 
 
-"Rename Backup" = "Remover Copia de Seguridad";
+"Rename Backup" = "Renombrar Copia de Seguridad";
 
 
 "Reset Alert Settings" = "Restablecer los ajustes de Alerta";
@@ -508,7 +508,7 @@
 "Respring" = "Respring";
 
 
-"Respring Confirmation" = "Respring relanzará el Springboard para aplicar cualquier ajuste que no se aplicó instantáneamente. Asegúrate que tú quieras respring antes de continuar.";
+"Respring Confirmation" = "Respring relanzará el Springboard para aplicar cualquier ajuste que no se aplicó instantáneamente. Asegúrate que tú quieras hacer el respring antes de continuar.";
 
 
 "Restore Backup" = "Restablecer Copia de Seguridad";
@@ -553,10 +553,10 @@
 "Signal Strength Icon" = "Icono de Fuerza de Señal";
 
 
-"Slide To Unlock" = "Desliza para Desbloquear";
+"Slide To Unlock" = "Deslizar para Desbloquear";
 
 
-"Slide To Unlock Glint" = "Destello de Desliza para Desbloquear";
+"Slide To Unlock Glint" = "Destello de Deslizar para Desbloquear";
 
 
 "Slowness Factor Footer" = "Deslizando para la izquierda acelera animaciones, un poco va un largo camino.";
@@ -565,7 +565,7 @@
 "Slow Factor" = "Factor de Lentitud";
 
 
-"Sort By Apps" = "Agrupar por App";
+"Sort By Apps" = "Agrupar por Apps";
 
 
 "Spotlight" = "Spotlight";
@@ -577,7 +577,7 @@
 "Suppress Alerts" = "Suprimir Alertas";
 
 
-"Sufficient Power Reached Alerts" = "Alertad de Suficiente Poder Alcanzado";
+"Sufficient Power Reached Alerts" = "Alertas de Suficiente Poder Alcanzado";
 
 
 "Support" = "Soporte";
@@ -619,7 +619,7 @@
 "TTY Icon" = "Icono de TTY";
 
 
-"Translation" = "Translación";
+"Translation" = "Traducción";
 
 
 "Unreliable Accessory Alert" = "Alerta de Accesorio Poco Fiable";
@@ -655,7 +655,7 @@
 "Wallpaper" = "Fondo de Pantalla";
 
 
-"What would you like to do with this backup?" = "Que Te Gustaría Hacer con esta Copia de Seguridad ?";
+"What would you like to do with this backup?" = "Qué Te Gustaría Hacer con esta Copia de Seguridad?";
 
 
-"What would you like to rename this backup to?" = "Que Te Gustaría Re-nombrar está Copia de Seguridad?";
+"What would you like to rename this backup to?" = "A Qué Te Gustaría Re-nombrar está Copia de Seguridad?";
